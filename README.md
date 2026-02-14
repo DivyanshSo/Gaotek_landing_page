@@ -13,4 +13,4 @@ It is a responsive Camping Gear landing page built using HTML5 and CSS3.
 HTML5, CSS3 (Flexbox, Grid, Responsive Layout)
 
 ## Hosted Link
-(Add your GitHub Pages link here)
+(https://github.com/DivyanshSo/Gaotek_landing_page)
